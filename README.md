@@ -1,4 +1,4 @@
 # Pekeps-Naama
 
-ESC - stops the script
-Spacebar - saves the current frame to directory. Hold to capture multiple.
+ESC - stops the script 
+\nSpacebar - saves the current frame to directory. Hold to capture multiple.
